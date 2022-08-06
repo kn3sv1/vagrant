@@ -1,0 +1,12 @@
+
+https://www.ewaldvanderveken.dev/setting-up-a-lamp-development-environment-in-vagrant/
+
+http://mytestproject.local.com/phpinfo.php
+
+
+
+https://app.vagrantup.com/ubuntu
+
+
+vagrant init ubuntu/jammy64
+vagrant up

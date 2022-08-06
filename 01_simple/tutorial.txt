@@ -1,0 +1,5 @@
+https://app.vagrantup.com/ubuntu
+
+
+vagrant init ubuntu/jammy64
+vagrant up
